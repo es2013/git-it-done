@@ -83,4 +83,4 @@ let getReposIssues = function (repo) {
         limitWarningEl.appendChild(linkEl);
     };
 
-    getReposIssues("facebook/react")
+  getRepoNames();
